@@ -1,4 +1,4 @@
-# @mac-apps/core
+# @mac-applications/core
 
 **用于获取 MAC 软件的偏好设置信息**
 
@@ -8,7 +8,7 @@
 ## 安装
 
 ```shell
-npm i @mac-apps/core -S
+npm i @mac-applications/core -S
 ```
 
 ## 使用方法
@@ -16,7 +16,7 @@ npm i @mac-apps/core -S
 以 Iterm 软件为例 传入软件偏好的配置文件路径(`${os.homedir()}/Library/Preferences/com.googlecode.iterm2.plist`)
 
 ```typescript
-import App from '@mac-apps/core';
+import App from '@mac-applications/core';
 
 export interface ItermPreferences {
     'New Bookmarks': {

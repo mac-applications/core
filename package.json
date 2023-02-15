@@ -1,6 +1,6 @@
 {
-  "name": "@mac-apps/core",
-  "version": "1.0.2",
+  "name": "@mac-applications/core",
+  "version": "1.0.1",
   "description": "",
   "types": "./lib/index.d.ts",
   "main": "./lib/index.cjs.js",
