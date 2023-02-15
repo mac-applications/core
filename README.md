@@ -4,7 +4,7 @@
 
 - 支持偏好类型的范性
 - 使用 ESModule和CommonJS 模块方式
-
+ 
 ## 安装
 
 ```shell
